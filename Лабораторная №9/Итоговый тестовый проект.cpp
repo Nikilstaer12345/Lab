@@ -343,5 +343,5 @@ TEST(Calculator, new_pass_true){
     CheckPassword = contr.isCorrectPassword();
     EXPECT_TRUE(CheckPassword);
 }
-#endif // TST_TESTDIVISIONBYZERO_H
+#endif
 ```
